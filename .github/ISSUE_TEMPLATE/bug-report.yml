@@ -1,0 +1,25 @@
+name: Report a problem
+description: Report a typo or an issue in the practice repository
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: Explain what you noticed.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Include commands or steps, but never include passwords, tokens, or private data.
+    validations:
+      required: false

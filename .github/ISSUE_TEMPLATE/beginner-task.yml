@@ -1,0 +1,25 @@
+name: Beginner contribution
+description: A small task for practising Git and GitHub
+title: "[TASK] "
+labels: ["good first issue", "workshop"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Choose a small, clear contribution. Ask the instructor if you are unsure.
+  - type: textarea
+    id: task
+    attributes:
+      label: What needs to be done?
+      description: Describe the requested change.
+      placeholder: Add one missing term to the Git glossary in README.md.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: When is this task complete?
+      description: List what the reviewer should be able to verify.
+      placeholder: The term is accurate, clearly explained, and committed in a feature branch.
+    validations:
+      required: true
