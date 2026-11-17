@@ -1,30 +1,35 @@
-# Beginner challenge ideas
+## Additional Contribution Ideas | Idées de contributions supplémentaires
 
-The instructor can create GitHub Issues from these tasks. Keep each Issue small enough for a beginner to complete in 5–15 minutes.
+These small tasks can be created as GitHub Issues for students who want to contribute to the repository.
 
-## Suggested Issues
+Ces petites tâches peuvent être proposées sous forme de GitHub Issues aux étudiants qui souhaitent contribuer au dépôt.
 
-### 1. Add your name to CONTRIBUTORS.md
-- **Label:** `good first issue`
-- **Task:** Add one contributor entry using the format in the file.
-- **Done when:** The entry is correctly formatted and submitted in a Pull Request.
+### 1. Add your name to CONTRIBUTORS.md | Ajouter votre nom
 
-### 2. Add a Git glossary term
-- **Label:** `good first issue`
-- **Task:** Add a short definition for `staging area`, `commit`, `branch`, or `remote` to the README.
-- **Done when:** The definition is accurate and understandable to a beginner.
+- **Label / Étiquette:** `good first issue`
+- **Task / Tâche:** Add your name and GitHub username using the existing format.
+- **Done when / Critère de validation:** The entry is correctly formatted and submitted through a Pull Request.
 
-### 3. Fix a typo
-- **Label:** `good first issue`
-- **Task:** Find and correct a typo in the documentation.
-- **Done when:** The correction is visible in a Pull Request.
+### 2. Add a Git glossary term | Ajouter un terme au glossaire
 
-### 4. Improve the setup instructions
-- **Label:** `documentation`
-- **Task:** Add one beginner-friendly tip about checking Git installation or configuring a Git identity.
-- **Done when:** The new tip is clear and does not include anyone's personal credentials.
+- **Label / Étiquette:** `good first issue`
+- **Task / Tâche:** Add a beginner-friendly definition of a Git term.
+- **Done when / Critère de validation:** The definition is accurate, clear and understandable.
 
-### 5. Add a useful Git command
-- **Label:** `good first issue`
-- **Task:** Add a Git command to the README cheat sheet, with a one-sentence explanation.
-- **Done when:** The command and explanation are correct.
+### 3. Fix a typo | Corriger une faute
+
+- **Label / Étiquette:** `good first issue`
+- **Task / Tâche:** Find and correct a typo in the documentation.
+- **Done when / Critère de validation:** The correction is included in a Pull Request.
+
+### 4. Improve setup instructions | Améliorer les instructions d'installation
+
+- **Label / Étiquette:** `documentation`
+- **Task / Tâche:** Add a beginner-friendly tip about installing Git or configuring Git identity.
+- **Done when / Critère de validation:** The tip is clear and contains no personal credentials.
+
+### 5. Add a useful Git command | Ajouter une commande Git utile
+
+- **Label / Étiquette:** `good first issue`
+- **Task / Tâche:** Add a Git command to the cheat sheet with a short explanation.
+- **Done when / Critère de validation:** The command and explanation are correct.
