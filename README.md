@@ -4,18 +4,35 @@ Welcome to the **Data Science Club · USTHB** Git & GitHub practice repository!
 
 This repository is a safe place to practise the workflow from your first commit to your first Pull Request.
 
-## Workshop goals
+## Learning Resources
 
-By completing the challenge, you will learn how to:
+New to Git or GitHub? Start with these resources:
 
-- Fork and clone a repository
-- Create a feature branch
-- Edit and stage a file
-- Make a meaningful commit
-- Push your branch to GitHub
-- Open a Pull Request for review
+- [Git Cheat Sheet](docs/GIT_CHEAT_SHEET.md) — Essential commands in English and French.
+- [Git Glossary](docs/GLOSSARY.md) — Understand the key Git and GitHub terms.
+- [Common Errors](docs/COMMON_ERRORS.md) — Troubleshoot frequent problems.
 
-## Your first contribution
+##  Workshop Goals
+
+By completing the challenges, you will learn how to:
+
+- Fork and clone a repository.
+- Create a feature branch.
+- Edit and stage a file.
+- Make a meaningful commit.
+- Push your branch to GitHub.
+- Open a Pull Request for review.
+
+##  Practice Challenges
+
+Follow the guided exercises in the [`workshop-challenges/`](workshop-challenges/README.md) folder:
+
+1. [Your First Commit](workshop-challenges/01-first-commit.md)
+2. [Working with Branches](workshop-challenges/02-branches.md)
+3. [Resolving Merge Conflicts](workshop-challenges/03-merge-conflicts.md)
+4. [Your First Pull Request](workshop-challenges/04-first-pull-request.md)
+
+##  Your First Contribution
 
 1. If you are contributing to the club's original repository and do not have write access, click **Fork** on GitHub.
 2. Clone your fork:
@@ -56,7 +73,7 @@ By completing the challenge, you will learn how to:
 8. On GitHub, open a Pull Request from your fork's branch to the original repository's `main` branch.
 9. In the PR description, explain what you changed.
 
-## Contribution rules
+##  Contribution Rules
 
 - Make one small, focused contribution per Pull Request.
 - Use a descriptive branch name.
@@ -65,18 +82,19 @@ By completing the challenge, you will learn how to:
 - Be respectful in reviews and discussions.
 - Do not edit another contributor's entry without permission.
 
-## Suggested branch names
+##  Suggested Branch Names
 
 - `docs/add-your-name`
 - `docs/improve-readme`
 - `fix/fix-typo`
 - `feature/add-resource`
 
-## Need help?
+##  Need Help?
 
 Open an Issue in this repository and describe:
-- What you were trying to do
-- The command you ran
-- The complete error message (remove any passwords, tokens, or private information)
+
+- What you were trying to do.
+- The command you ran.
+- The complete error message (remove any passwords, tokens, or private information).
 
 Happy learning!
